@@ -1,0 +1,58 @@
+body {
+    background-color: hsl(192, 100%, 77%);
+    color: white;
+    font-size: 21px;
+}
+
+p {
+    color: red;
+}
+
+.intro {
+    font-size: 30px;
+    color: yellow
+}
+
+.highlight {
+    background: yellow;
+}
+
+.accent-coor {
+    color: red;
+}
+
+h1 {
+    font-size: 70px;
+    color: blue;
+}
+
+.top-section{
+    background: pink;
+}
+
+.botton-section{
+    background: green;
+}
+
+span {
+    color: gray;
+    font-weight: bold;
+}
+
+/* the CSS box model */
+
+/*
+margin: 
+padding: 
+border: 
+ */
+
+.box{
+    background: pink;
+    width: 300px;
+
+    margin: 100px;
+    border: 10px solid red;
+    padding: 100px;
+
+}
